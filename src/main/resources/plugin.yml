@@ -1,0 +1,7 @@
+name: Nyancannon
+version: @version@
+main: me.darkeyedragon.nyancannon.Nyancannon
+api-version: 1.13
+prefix: NC
+authors: [DarkEyeDragon]
+description: Launch cats with pretty particle trails
